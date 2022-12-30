@@ -8,7 +8,7 @@ The fourth project of Practicum's Data Science course, focusing on statistical a
 - Date of completion: 21 December 2022
 - Revisions: 1
 - Language: English
-- Library:
+- Libraries:
 	- pandas
 	- NumPy
 	- Matplotlib
