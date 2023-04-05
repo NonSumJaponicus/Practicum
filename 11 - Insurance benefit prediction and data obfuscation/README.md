@@ -9,7 +9,7 @@ The eleventh project of Practicum's Data Science course. With an emphasis on lin
 1. Obfuscating clients' personal information without affecting the previous task.
 
 ## Details
-- Date of completion: 10 March 2023
+- Date of completion: 16 March 2023
 - Programming languages: Python
 - Libraries:
 	- pandas
