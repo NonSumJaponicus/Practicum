@@ -2,7 +2,7 @@
 
 ## Project description
 
-The thirteenth project of Practicum's Data Science course. With focus on time series forecasting, the project's goal was to create and tune ML models capable of predicting the number of taxi orders in the coming hour. 
+The thirteenth project of Practicum's Data Science course. With focus on time series forecasting, the project's goal was to create and tune ML models capable of predicting the number of taxi orders in the coming hour. Includes Bayesian optimization for hyperparameter tuning.
 
 ## Details
 - Date of completion: 25 April 2023
