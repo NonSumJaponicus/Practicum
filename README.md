@@ -1,5 +1,5 @@
-# Repository of Practicum projects by NonSumJaponicus / S. Joshua
-This repository contains projects taken from the Data Science course on Practicum.
+# Repository of TripleTen projects by NonSumJaponicus / S. Joshua
+This repository contains projects taken from the Data Science course on TripleTen (formerly Practicum).
 
 ## Contents
 | Project title         | Description                                                                                 | Libraries                      |
